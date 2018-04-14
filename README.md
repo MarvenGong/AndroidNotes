@@ -2,14 +2,9 @@
 
 # AndroidNotes
 
-
-okhttp源码拆轮子之RealCall(请求）
-
-
-http://note.youdao.com/noteshare?id=cb8fc73f421854b2543d0c0c99a21e7c
+原来学的东西，学了就忘了。面试的时候讲也讲不清楚。
+现在统统记录下来，第一是方便自己查阅，第二是分享出来，欢迎大家斧正。
 
 
-okhttp源码拆轮子之Dispatcher(调度器)
 
 
-http://note.youdao.com/noteshare?id=5b9b5fca88282f20b8c7fd1dfcecafb6
