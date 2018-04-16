@@ -243,8 +243,9 @@ promoteCalls()方法源码很简单，不贴了。
 4. 在遍历过程中如果runningAsyncCalls超过maxRequest则不再添加，否则一直添加。
 
 
-最后附带一张网图：
+最后附带一张网图：![1.jpg][1]
 
+[1]:https://github.com/DingoDemon/AndroidNotes/blob/master/%E5%AE%89%E5%8D%93%E4%BC%98%E7%A7%80%E6%A1%86%E6%9E%B6%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/realcall.png
 
 
 
